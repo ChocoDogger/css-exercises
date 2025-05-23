@@ -1,0 +1,16 @@
+.oddnums {
+    background-color: rgb(235, 183, 192);
+    font-family: 'Times New Roman','DejaVu Sans',sans-serif;
+}
+#itemdos {
+    color: rgb(31, 121, 224);
+    font-size: 36px;
+}
+#itemtres {
+    font-size: 24px;
+}
+#itemfour {
+    background-color: rgb(86, 252, 86);
+    font-size: 24px;
+    font-weight: bold;
+}
